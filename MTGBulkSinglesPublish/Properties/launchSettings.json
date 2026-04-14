@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "MTGBulkSingles": {
-      "commandName": "Project",
-      "commandLineArgs": "burn.txt"
-    }
-  }
-}
